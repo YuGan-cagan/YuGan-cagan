@@ -1,4 +1,4 @@
-### Hi there 👋
+### 这是一份准备开源的核心,若开源后要修改请标明出处
 
 <!--
 **YuGan-cagan/YuGan-cagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
